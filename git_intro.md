@@ -277,14 +277,14 @@ the jargon in Git. You will hear and use them a lot.
         
   * Pull changes on the remote repository to your local repository.
   
-    Get changes from the remote repository. 
+    * Get changes from the remote repository. 
     
-        $ git fetch
+          $ git fetch
         
-    Examine these changes by comparing the fetched changes with your
+    * Examine these changes by comparing the fetched changes with your
     local repository.
     
-        $ git diff master origin/master
+          $ git diff master origin/master
         
     Where `master` is the main branch name of your local repository
     and `origin/master` is the main branch name of your remote
@@ -295,6 +295,11 @@ the jargon in Git. You will hear and use them a lot.
     [here](https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is). Though
     *branch* is an important and unique core feature of Git, we are
     not going to cover it here as it needs much more time.
+    
+    * Merge these changes to the master branch in your local
+      repository.
+    
+          $ git merge origin/master
 
 ## Review of the big picture of a typical Git workflow
 
