@@ -279,12 +279,12 @@ the jargon in Git. You will hear and use them a lot.
   
     * Get changes from the remote repository. 
     
-          $ git fetch
+            $ git fetch
         
     * Examine these changes by comparing the fetched changes with your
     local repository.
     
-          $ git diff master origin/master
+            $ git diff master origin/master
         
     Where `master` is the main branch name of your local repository
     and `origin/master` is the main branch name of your remote
