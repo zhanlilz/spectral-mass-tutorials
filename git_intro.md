@@ -1,4 +1,13 @@
-[TOC]
+# Table of Content
+
+* [What is version control system (VCS), Git, GitHub and Bitbucket?](#what-is-version-control-system-vcs-git-github-and-bitbucket)
+* [Install Git on our Linux servers](install-git-on-our-linux-servers)
+* [First-time Git set up](first-time-git-set-up)
+* [Simple example on the usage of Git](simple-example-on-the-usage-of-git)
+  * [Manage your source code on Neponset with Git](manage-your-source-code-on-neponset-with-git)
+  * [Work between local Git repository and remote repository for teamwork](work-between-local-git-repository-and-remote-repository-for-teamwork)
+* [Review of the big picture of a typical Git workflow](review-of-the-big-picture-of-a-typical-git-workflow)
+* [Use Git to collaborate on our landsat-albedo repository](use-git-to-collaborate-on-our-landsat-albedo-repository)
 
 # Gentle Introduction to Git
 __for the Collaboration on *landsat-albedo* Repository__
